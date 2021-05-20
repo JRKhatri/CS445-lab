@@ -1,7 +1,7 @@
 # This is lab1 solutions
 * Exercise 1
-_this is code to initialize the github and local repository_
-*Step*
+#_Steps to initialize the github and local repository_
+*Steps*
 1. Open repository in Github with readme 
 2. Copy the url of repository 
 3. Make a local repository in your pc by -git clone (paste url of Github repository)
@@ -13,9 +13,9 @@ _this is code to initialize the github and local repository_
 
 8. Then git add, git commit, git push origin main of the specific folder 
 
-_code used to initilized the repository mention above step_
+#_Code used to initilized the repository mention above step_
 
-,,,
+```
 jrkhatri@Jyotis-MacBook-Pro Assignment % git clone https://github.com/JRKhatri/CS445-lab.git
 Cloning into 'CS445-lab'...
 remote: Enumerating objects: 3, done.
@@ -102,5 +102,5 @@ To https://github.com/JRKhatri/CS445-lab.git
    9c7703d..58c12c4  main -> main
 jrkhatri@Jyotis-MacBook-Pro CS445-lab % 
 
-,,,
+```
 
