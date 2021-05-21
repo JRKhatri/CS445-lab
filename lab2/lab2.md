@@ -25,10 +25,10 @@ As for storing arrays efficiently, JS engine uses the default array -indexed pro
 
 Thus, the way of storing the objects and array and utilize the Shapes and ICs by JavaScript engines boost to optimize common operation on object and array.
 
-_*For improving the performance of JavaScript engines JavaScript code should considered following points:*_
+**_For improving the performance of JavaScript engines JavaScript code should considered following points:_**
 
-#   While making an object, always initialize it in the same way so that it will form same shape in JS engines. 
-#   Property attributes of array elements should always keep default or do not change it unless needed so that JS engines can efficiently store and operate it during its operation.
+* While making an object, always initialize it in the same way so that it will form same shape in JS engines. 
+* Property attributes of array elements should always keep default or do not change it unless needed so that JS engines can efficiently store and operate it during its operation.
 
 _Sources:_
  1. https://mathiasbynens.be/notes/shapes-ics;
