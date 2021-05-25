@@ -46,3 +46,35 @@ myself = {
 }
 myself.bankAccount.deposit(3000);
 console.log(myself)
+
+/**
+ * let bankAccount : {
+    money:number;
+    deposit(value : number):void;
+}
+
+bankAccount  = {
+    money : 2000,
+    deposit(value :number):void{
+        this.money += value;
+    }
+}
+
+let myself:{
+    name : string;
+    bankAccount :type of bankAccount;
+    hobbies :string[];
+
+}
+myself = {
+    name : "Asaad",
+    bankAccount : bankAccount,
+    hobbies : ["Violin", "Cooking"]
+}
+myself.bankAccount.deposit(3000);
+console.log(myself)
+
+ 
+
+ * 
+ */

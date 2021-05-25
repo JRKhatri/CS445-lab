@@ -40,3 +40,4 @@ car.honk();
 console.log(car.acceleration);
 car.accelerate(60);
 console.log(car.acceleration);
+

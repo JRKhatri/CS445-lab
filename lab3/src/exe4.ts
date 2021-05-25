@@ -39,3 +39,16 @@ rectangle.calcSize = function(){
 }
 
 console.log(rectangle.calcSize());
+
+
+/**
+ * class BaseObject {
+ * constructor (public width:number =0, public length:number=0){}}
+ * 
+ * class Rectangle extends BaseObject{
+ * clacSize():number{
+ * return this.width * this.length}}
+ * 
+ * const rectangle = new Rectangle(5,2)
+ * console.log(rectangle.calcSize())
+ */

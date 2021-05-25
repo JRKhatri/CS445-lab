@@ -38,7 +38,9 @@ miu.graduation(2019);
 //         console.log(`Graduating ${this.dept} ${year} students`); 
 //     }
 // }
-
+/** //need to change in tsconfig.json - true to false
+ * or  function University as any
+ */
  
 //third way(not good some bugs)
 // function University(this: any,  name:string, dept :string):void {
