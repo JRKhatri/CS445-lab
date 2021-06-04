@@ -7,4 +7,5 @@
 4. [lab 4](./ASCIImation_files)
 5. [lab 5](./lab5)
 6. [lab 6](./lab6)
-6. [lab 7](./lab7)
+7. [lab 7](./lab7)
+8. [lab 8](./lab8)
