@@ -20,7 +20,6 @@ class Subject{
     off(act, fn){
         
             this.observer[act] = this.observer[act].filter(elemFn => elemFn !== fn)
-        
     }
 }
 

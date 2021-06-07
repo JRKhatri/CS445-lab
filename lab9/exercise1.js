@@ -53,7 +53,7 @@ const product3 = { id: 2, name: 'Pizza(frozen)', description: 'Chicken -by Pizza
 shoppingCart.upsertItem(product1);
 shoppingCart.upsertItem(product2);
 shoppingCart.upsertItem(product3);
-//console.log(shoppingCart)
+
 console.log(shoppingCart.getTotalPrice());
 product3.name = 'Himilayan Water';
 product3.price = 5;
